@@ -11,11 +11,11 @@ cd ./amax.dockers/amax.meta.chain
 # 查看支持的网络
 ls ./amnod
 
-# 安装 主网 0.5.2 最新版本
-bash ./setup-amnod.sh mainnet 0.5.2
+# 安装 主网 1.0.3 最新版本
+bash ./setup-amnod.sh mainnet 1.0.3
 
-# 进入 amax_mainnet_0.5.2 自动生成的安装目录
-cd ~/.amax_mainnet_0.5.2
+# 进入 amax_mainnet_1.0.3 自动生成的安装目录
+cd ~/.amax_mainnet_1.0.3
 
 # 执行安装amax mainnet docker
 bash run.sh
